@@ -1,0 +1,5 @@
+Naming Conventions
+
+class and interface = Calc, Student etc // starts with a capital letter
+variable and method = number , stop(), showMyMarks // use small letters
+constant  = PIE, BRANDS 

@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\Neha\eclipse-workspace\Java\TeluskoJava\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2230621470.index
+3297309021.index
